@@ -1,6 +1,6 @@
 # Machine-Learning
-Some standard Machine Learning algorithms.
 
+I have tried to implement Linear regression (univariate) from scratch (only used numpy and pandas).
+This is sample project in which I have used datad.txt file for training the neural network. One can open this .ipynb file on google colab or on any other platform, can upload his/her own data and make some changes in the code (like changing name of the input file), and can run this file.
 
-This repo contains some standard Machine Learning Algorithms (currently only one) which are implemented from scratch only by using numpy and pandas.
-Currently it has Jupyter Notebook containing code of Univariate Linear Regression (Cost function, Gradient Descent).
+I have implemented Gradient Descent for optimizing the cost of Regression.
